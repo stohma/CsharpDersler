@@ -1,0 +1,15 @@
+C:\Users\stohma\RiderProjects\WinFormsApp1\Csharp-Ders1\bin\Debug\net6.0-windows\Csharp-Ders1.exe
+C:\Users\stohma\RiderProjects\WinFormsApp1\Csharp-Ders1\bin\Debug\net6.0-windows\Csharp-Ders1.deps.json
+C:\Users\stohma\RiderProjects\WinFormsApp1\Csharp-Ders1\bin\Debug\net6.0-windows\Csharp-Ders1.runtimeconfig.json
+C:\Users\stohma\RiderProjects\WinFormsApp1\Csharp-Ders1\bin\Debug\net6.0-windows\Csharp-Ders1.dll
+C:\Users\stohma\RiderProjects\WinFormsApp1\Csharp-Ders1\bin\Debug\net6.0-windows\Csharp-Ders1.pdb
+C:\Users\stohma\RiderProjects\WinFormsApp1\Csharp-Ders1\obj\Debug\net6.0-windows\Csharp-Ders1.csproj.AssemblyReference.cache
+C:\Users\stohma\RiderProjects\WinFormsApp1\Csharp-Ders1\obj\Debug\net6.0-windows\Csharp-Ders1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stohma\RiderProjects\WinFormsApp1\Csharp-Ders1\obj\Debug\net6.0-windows\Csharp-Ders1.AssemblyInfoInputs.cache
+C:\Users\stohma\RiderProjects\WinFormsApp1\Csharp-Ders1\obj\Debug\net6.0-windows\Csharp-Ders1.AssemblyInfo.cs
+C:\Users\stohma\RiderProjects\WinFormsApp1\Csharp-Ders1\obj\Debug\net6.0-windows\Csharp-Ders1.csproj.CoreCompileInputs.cache
+C:\Users\stohma\RiderProjects\WinFormsApp1\Csharp-Ders1\obj\Debug\net6.0-windows\Csharp-Ders1.dll
+C:\Users\stohma\RiderProjects\WinFormsApp1\Csharp-Ders1\obj\Debug\net6.0-windows\refint\Csharp-Ders1.dll
+C:\Users\stohma\RiderProjects\WinFormsApp1\Csharp-Ders1\obj\Debug\net6.0-windows\Csharp-Ders1.pdb
+C:\Users\stohma\RiderProjects\WinFormsApp1\Csharp-Ders1\obj\Debug\net6.0-windows\Csharp-Ders1.genruntimeconfig.cache
+C:\Users\stohma\RiderProjects\WinFormsApp1\Csharp-Ders1\obj\Debug\net6.0-windows\ref\Csharp-Ders1.dll
